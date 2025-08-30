@@ -1,0 +1,22 @@
+# DCS mod heavy assets
+Textures/
+Sounds/
+Shapes/
+Liveries/
+Theme/
+Missions/
+*.zip
+*.7z
+*.rar
+*.psd
+*.dds
+*.wav
+*.ogg
+*.edm
+
+# Build and local artifacts
+/build/
+*.pdb
+*.obj
+*.log
+.DS_Store
